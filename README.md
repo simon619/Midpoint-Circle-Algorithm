@@ -29,4 +29,4 @@ Requirment:
 
 Output Screenshot:
 -------------
-![](Midpoint%20Circle%20Algorithm/image/Midpoint_Circle_Algorithm.png)
+![](image/Midpoint_Circle_Algorithm.png)
